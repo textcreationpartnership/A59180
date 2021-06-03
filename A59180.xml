@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sad effects of cruelty detected being an impartial account of the poor woman, near Temple-Barr, lately tempted in her distraction to make away with herself : whose temptation and distraction proceeded not from her owning the Quakers their meetings or principles ... but from the Devill &amp; a wicked husband ... : in pursuance of a late malicious pamphlet and fallacious account, entituled, The sad and dreadful end of one of the Quakers &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59180</idno><idno type="EEBO-CITATION">8227728</idno>
+  <idno type="VID">41111</idno>
+  <idno type="EEBO-PROQUEST">2248499401</idno>
+  
+            <idno type="STC">Wing S252</idno>
+            <idno type="STC">ESTC R24509</idno>
+            <idno type="OCLC">08227728</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41111)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1239:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Sad effects of cruelty detected being an impartial account of the poor woman, near Temple-Barr, lately tempted in her distraction to make away with herself : whose temptation and distraction proceeded not from her owning the Quakers their meetings or principles ... but from the Devill &amp; a wicked husband ... : in pursuance of a late malicious pamphlet and fallacious account, entituled, The sad and dreadful end of one of the Quakers &amp;c.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the Year 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41111:1"/>
+            <p>THE Sad Effects OF CRUELTY DETECTED; Being an Impartial Account of the poor Woman, near <hi>Temple-Barr,</hi> lately temp<g ref="char:EOLhyphen"/>ted in her Distraction to <hi>Make away her self.</hi>
+            </p>
+            <p>Whose <hi>Temptation</hi> and <hi>Distraction</hi> proceeded not from her Owning the <hi>Quakers,</hi> their Meetings or Principles (as hath been most Maliciously suggested) but from the Devil &amp; a Wicked Husband (pre<g ref="char:EOLhyphen"/>vailing upon her own Infirmity) as is here<g ref="char:EOLhyphen"/>by briefly (yet apparently) evinced.</p>
+            <p>In Pursuance of a late Malicious Pamphlet-and Falla<g ref="char:EOLhyphen"/>cious Account, entituled, <hi>The Sad and Dreadful End of One of the <hi>QUAKERS,</hi> &amp;c.</hi>
+            </p>
+            <q>Oppression maketh a Wise Man Mad.</q>
+            <p>Printed in the Year 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41111:2"/>
+            <pb n="3" facs="tcp:41111:2"/>
+            <head>THE Sad Effects of Cruelty DETECTED.</head>
+            <p>THere being of late published a Scandalous Pamphlet, the Author of which having exposed divers Lyes to the View of the World, it seems, chose to conceal his Name, to avoid the Shame that such Deeds are truly worthy of; the Purport of which Paper is to present the World with <hi>Sad and Dreadful News,</hi> viz. <hi>That one of the</hi> Quakers <hi>Speakers was lately tempted by the Devil to Make Away her self:</hi> Which, if true, would no doubt prove very sad News indeed to most Well-wish<g ref="char:EOLhyphen"/>ers, who know that People, that any one of their Speakers (as he is pleased to term her) should come to such a Dreadful End: But although this Unknown and Envious Scribler is not worthy to be taken notice of, yet to the end that the Truth of things might appear, and for the clearing that People, and their Principle of <hi>the Light of Christ in man,</hi> from those Lyes and False Sugge<g ref="char:EOLhyphen"/>stions, which he hath published, is this written.</p>
+            <p>In Page 1. he would seem to give his Judgment of the <hi>Com<g ref="char:EOLhyphen"/>plexion of their Tenets, and Nature of their Principles;</hi> and so goeth on thus, <hi>To say nothing of their General Constitution of Body, which is Morose, Sullen, Reserved and Melancholy.</hi>
+            </p>
+            <p>If this be to say nothing, it must be thus rendered, He could say nothing worse.</p>
+            <p>Pag. 1. <hi>They depend upon an Ʋncertain Light and Private Spirit.</hi>
+            </p>
+            <p>By this his Assertion he proveth nothing, nor yet rendreth he one Argument in order for Proof of either; and so, need<g ref="char:EOLhyphen"/>eth no Confutation, it being so apparent an Untruth.</p>
+            <pb n="4" facs="tcp:41111:3"/>
+            <p> Pag. 2. <hi>She was a Well-meaning Woman, and was frequently Admitted to hold forth at their Meetings, and did Speak.</hi>
+            </p>
+            <p>If she was a Well-meaning Woman, then was her Husband the more to be blamed for his Wicked and Cruel Usages to<g ref="char:EOLhyphen"/>wards her: But for her being ADMITTED to Speak in our Meetings, its false; for she never had Admittance to any such kind of Speaking, from or by any of our Meetings: But for her sometimes dropping some insignificant Words, she was ad<g ref="char:EOLhyphen"/>monished and several times exhorted to Forbearance; she be<g ref="char:EOLhyphen"/>ing to the Knowledge of several of us, that knew her, not set<g ref="char:EOLhyphen"/>led in the Knowledge of the Truth, but under Exercise, and li<g ref="char:EOLhyphen"/>able to Temptations.</p>
+            <p>Pag. 2. <hi>That her Husband is of good Repute, and in his Judg<g ref="char:EOLhyphen"/>ment was alwayes firm to the</hi> Church of England, <hi>and not a little troubled <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o see his Wife tracing these Extravagant By-Paths of</hi> Schism, <hi>and often admonished her to forsake them: But there is no disputing with Fire and Brimstone.</hi>
+            </p>
+            <p>As for his Judgment, be it what it will, of this we are sure, That if the Tree be to be known by its Fruit, it is then no mat<g ref="char:EOLhyphen"/>ter what his Judgment was, and that neither he, nor his Manner of Admonition, did at all adorn the <hi>Church of England;</hi> since that his Carriage and Practice was so Bad and Inhumane to his Wife, as divers of us can prove it to have been for divers years past, viz. <hi>His keeping her a Prisoner</hi>
+               <note n="*" place="margin">Let him Deny these things if he can, before his Neighbours, who know his Behaviour to<g ref="char:EOLhyphen"/>wards his Wife.</note>
+               <hi>in his own House, and sometime Beating her with a Cudgel or Cane, in that Horrible manner, that no good Man would so beat his Dog, if he loved him; he Beating her of<g ref="char:EOLhyphen"/>ten with cruel Blows, as Butchers do Mad Oxen: Many times, to our Knowledge, hath he sought her out of our Meetings, and there hath he fallen a Beating her, with both his Hands on his Staff, in a most Barbarous Manner, sometimes on her Head, Shoulders, and where his Fury could first hit; and from thence divers times Dragging her forth, and Driving her Home, as Butchers do their Beasts,</hi> although she never, as we know of, refused to go with him: And other times he would so Kick and Pinch her, that her Arms and Shins would be Black,
+<pb n="5" facs="tcp:41111:3"/>and Torn with such Holes, that the poor Woman hath doubted of her Recovery again; she often fearing, that at one time or another he would, by these his Doings, Kill her: He would so Beat her with his Fist, that her Eyes and Face would be so Swel<g ref="char:EOLhyphen"/>led and Black and Blew, that it was often visible to the Neigh<g ref="char:EOLhyphen"/>bourhood: And at other times, as we have been informed by her own Mouth, that when he hath come Home in Drink, he hath pulled her out of the Bed, in her Shift, and so beaten her, that she hath been forced to down on her Knees to beg him to spare her Life: And since all this, for above a Year, hath he kept her most of it Close Prisoner, lockt up in one Room in his House, not suffering any Body (except whom he had a mind) to come to her, she being Lockt up by her self till very late, when he hath been a broad a Drinking: and these for divers Years conti<g ref="char:EOLhyphen"/>nued Cruel Usages of her Husband, we verily believe, was a great Cause of her being Distempered in Mind, and might most probably be the Cause of Melancholy seizing her Spirits (for, as the Scripture said, <hi>Oppression maketh a Wise Man mad;</hi> and much more it may a Weak Woman) and not as this Reviling Author would suggest it to be the <hi>Product of Adhering to the</hi> Quakers <hi>Light;</hi> by which his Envy against the Light, and the Do<g ref="char:EOLhyphen"/>ctrine thereof, is manifest; but we say, Considering the con<g ref="char:EOLhyphen"/>tinual Sufferings and Barbarous Usage, she under-went for many Years together, and at last her Imprisonment by her Husband in his own House till within about three Weeks before she Dy<g ref="char:EOLhyphen"/>ed, cannot well escape the Judgment of most Moderate Peo<g ref="char:EOLhyphen"/>ple to determine the Matter, but that her unnatural Husband was really (as an Instrument of Satan) the Cause of bringing her into that sad State of Distruction: And if this be his <hi>Adm<g ref="char:EOLhyphen"/>onition,</hi> the Lord deliver all good Men and Women from all such <hi>Admonishers.</hi> And for his being <hi>firm in his Judgment to the Church of England;</hi> these Actions are not at all to his Praise or Honour.</p>
+            <p>Pag. 3. <hi>She continued her Fanatick Rambles, and was constant Visitant to the</hi> Bull and Mouth <hi>and</hi> Devonshire House.</p>
+            <p>How this can be, we leave it to the Unprejudiced to judge; for this we can prove, <hi>That for the greatest part of One Year and Half b fore she Dyed, she was lockt up in a Room with a</hi> Padlock <hi>on the Out-side, to s<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cure her.</hi>
+            </p>
+            <pb n="6" facs="tcp:41111:4"/>
+            <p> Pag. 3, &amp; 4. <hi>This poor Woman going out Very Well in Health of Body and Mind, as to all peoples Apprehensions, to the usual Meeting of</hi> Quakers, <hi>on Sunday the</hi> 7th <hi>of this Instant</hi> No<g ref="char:EOLhyphen"/>vember, <hi>Satan (as appeareth by the sequel) took the Advantage to Delude her, by representing strange Chimae as to her Fancy, which she entertained as Heavenly Revelations; and in Contem<g ref="char:EOLhyphen"/>plation thereof stayed out all Night, but Where, she would not tell, nor is it yet known; on Monday she came Home, and seemed in a strange Rapture.</hi>
+            </p>
+            <p>This is so gross an Untruth, that there is scarce a man to be found, but would be ashamed to publish it; for the Woman was Dead that day, and as he saith himself, was buried on the 9th of this Instant <hi>November;</hi> by which, without further Proof then by his own Pamphlet, any indifferent Reader may suspect his Account. But observe how he goeth about to insinuate into the Minds of people, as if she had been Well in her Senses, and that her going to a Meeting had wrought such an Effect upon her; whenas we can prove, that the first time of late that we saw her abroad, she was Distempered in her Mind, which was about Two or Three Weeks before she Dyed, being in the Eve<g ref="char:EOLhyphen"/>ning, about the middle of the Week, when it seems her Hus<g ref="char:EOLhyphen"/>band had let her into his Shop, and going aside, she got out for an Hour or two.</p>
+            <p>And as for his strange News at the latter-end of his Paper, con<g ref="char:EOLhyphen"/>cerning the Nurse as tended her; she is still, for ought we know, living, and was Well several dayes after, as one of his own Fa<g ref="char:EOLhyphen"/>mily hath informed: But if there was any other, that once wat<g ref="char:EOLhyphen"/>ched with her, &amp; after the Woman's Death did affright her self with her own Fancies, adding thereto the Sight of the <hi>Bell, man's Dog,</hi> is the most as we can gather from Information. So that for the rest of the <hi>Libeller's Admonition,</hi> with which he con<g ref="char:EOLhyphen"/>cludes, its not worth minding, because such men's Bondage is apparent that cannot speak Truth, and they are certainly already seduced by Satan, who is and ever was the Father of Lyes, who hath instigated his <hi>Agents</hi> to write and spread many Scandalous Lying Pamphlets, to Defame us, and blaspheme the Truth pro<g ref="char:EOLhyphen"/>fessed
+<pb n="7" facs="tcp:41111:4"/>by us; but they shall be rewarded according to their Works.</p>
+            <p>This is written and given forth by several of us who are cal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <hi>Quakers,</hi> be<g ref="char:EOLhyphen"/>longing to <hi>Westminster</hi> End, who were in a great measure Eye and Ear-Witnesses of this poor Woman's Grievous Sufferings and Barbarous Usage, and farther ready to attest the same, if Occasion require.</p>
+            <div type="postscript">
+               <head>Postscript.</head>
+               <p>
+                  <hi>THE Case contracted, as its unjustly insinuated against us, is thus, Because the poor Woman aforesaid, who sometimes came to our Meetings, occasionally fell into Distra<g ref="char:EOLhyphen"/>ction and Temptation, therefore both</hi> Us, <hi>our Meetings, our Religion &amp; Light, are represented Reproachfully to the World, reflected upon and branded as</hi> Obnoxious, Schism, Heresie, Uncertain, Delusive, &amp;c. <hi>(Oh horrid Injustice and gross Unreasonableness!)</hi>
+               </p>
+               <p>
+                  <hi>But the Husband of this poor Woman, who hath most bar<g ref="char:EOLhyphen"/>barously used her, and as a Wicked Engine of Satan, acted his Cruelty (enough to bring all that Distemper upon her, and to destroy her) He is represented as a Man</hi> of Good Repute, &amp; one whose Judgment was alwayes firm to the <hi>Church of England,</hi> and as a very serious <hi>Admonisher</hi> of his Wife against her <hi>By-Paths</hi> of <hi>Schism; as if he had endeavoured the Saving of her Soul by his Barbarity, his cruelly Beating and Abusing of her Body. Oh horrid Impiety, Hypocrisie and Wickedness! The Just God will judge for these things. And let all the Sons of the</hi> Church of England, <hi>and others con<g ref="char:EOLhyphen"/>cerned, take Warning hereby, not to be Cruel to their Wives, &amp;c. for Differences in Judgment or Opinion; but be Ten<g ref="char:EOLhyphen"/>der and Compassionate, as becometh</hi> Christians, <hi>and as they expect Forgiveness from (or will Answer) the Great God, who will judge Righteously.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:41111:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
